@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello, I'm Pankaj Prajapati 👋
 
-<!--
-**PankajCS22/PankajCS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently  working student...
-- 🌱 I’m currently learning webdevelopment
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm currently learning Web Development Hi I'm of Computer science  student (BCA) specializing in MERN FULL STACK Developer, I'm Student of Allahabad state university , I'm pankaj prajapati form India I Really enjoy learning languages and Frameworks  like  React  Javascript HTML  CSS  Bootstrap Node js Expres js MongoDB SQL  Github  C C++ java C# python Datastructures  ,
+
+## Current Focus 
+
+- 🔭 I’m currently learning  student (FULL STAKE DEVELOPER)
+- 🌱 I’m currently learning  Web Development 
+- 
+## I'm Currently  learning   web development 
+
+HTML CSS JAVASCRIPT BOOTSTRAP REACT NODE JS  EXPRES JS  MONGO DB
+
+## Tech stack
+. Web Development  frantend HTML CSS JAVASCRIPT  React
+.NODE JS Expres js  MongoDB 
+Programing languages
+ 
+ ## Framework
+  Bootstrap
 -->
